@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Projet PacMan/Scenes/Menu.unity
+    guid: 9ff00c0fd01069d47882aac3ed6b7dd4
+  - enabled: 1
+    path: Assets/Projet PacMan/Scenes/test scene.unity
+    guid: 4ed6b56fd43253b44be6898a9e6a36f8
+  m_configObjects: {}
